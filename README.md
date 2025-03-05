@@ -3,13 +3,13 @@
 Для запуска пропишите две команды ниже описаны
 
 ```bash
- my-app git:(main) npm install
+  npm install
 
 ```
 
 И последняя команда
 
 ```bash
- my-app git:(main) npm run dev
+  npm run dev
 
 ```
